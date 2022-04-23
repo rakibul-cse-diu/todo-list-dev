@@ -1,0 +1,5 @@
+.work-place {
+    display: grid;
+    grid-template-columns: 1fr 8fr 3fr;
+    grid-gap: 10px;
+}
